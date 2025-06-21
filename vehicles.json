@@ -1,0 +1,47 @@
+[
+  {
+    "plate": "06 XYZ 456",
+    "lat": 39.9208,
+    "lng": 32.8597,
+    "location": "Ankara, Türkiye",
+    "status": "Teslim Edildi",
+    "user": "Ayşe Yılmaz",
+    "date": "22 Haziran 2025 15:00"
+  },
+  {
+    "plate": "35 DEF 789",
+    "lat": 38.4237,
+    "lng": 27.1384,
+    "location": "İzmir, Türkiye",
+    "status": "Yolda",
+    "user": "Mehmet Demir",
+    "date": "22 Haziran 2025 14:55"
+  },
+  {
+    "plate": "07 GHI 101",
+    "lat": 36.8969,
+    "lng": 30.7133,
+    "location": "Antalya, Türkiye",
+    "status": "Molada",
+    "user": "Zeynep Kara",
+    "date": "22 Haziran 2025 14:40"
+  },
+  {
+    "plate": "16 JKL 202",
+    "lat": 40.1827,
+    "lng": 29.0736,
+    "location": "Bursa, Türkiye",
+    "status": "Depoda",
+    "user": "Caner Akın",
+    "date": "22 Haziran 2025 14:20"
+  },
+  {
+    "plate": "55 MNO 303",
+    "lat": 41.2828,
+    "lng": 36.3361,
+    "location": "Samsun, Türkiye",
+    "status": "Yola Çıkacak",
+    "user": "Deniz Aslan",
+    "date": "22 Haziran 2025 14:10"
+  }
+]
