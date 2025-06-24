@@ -1,0 +1,56 @@
+[
+  {
+    "plate": "34 ABC 123",
+    "vehicleType": "Kamyonet",
+    "deliveryNo": "DLV20250601",
+    "currentCity": "İstanbul",
+    "status": "Yolda",
+    "progress": 60,
+    "cargoType": "Elektronik",
+    "customerName": "Oğuzhan Boz",
+    "deliveryAddress": "Kadıköy, İstanbul",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "steps": [
+      { "label": "Teslimat No Oluşturuldu", "timestamp": "24 Haziran 2025 13:00" },
+      { "label": "Yüklendi", "timestamp": "24 Haziran 2025 17:00" },
+      { "label": "Yola Çıktı", "timestamp": "24 Haziran 2025 18:00" }
+    ]
+  },
+  {
+    "plate": "06 DEF 456",
+    "vehicleType": "Tır",
+    "deliveryNo": "DLV20250602",
+    "currentCity": "Ankara",
+    "status": "Yükleniyor",
+    "progress": 30,
+    "cargoType": "Mobilya",
+    "customerName": "Merve Kılıç",
+    "deliveryAddress": "Çankaya, Ankara",
+    "lat": 39.9208,
+    "lng": 32.8541,
+    "steps": [
+      { "label": "Teslimat No Oluşturuldu", "timestamp": "23 Haziran 2025 11:00" },
+      { "label": "Yüklendi", "timestamp": "23 Haziran 2025 15:00" }
+    ]
+  },
+  {
+    "plate": "35 XYZ 789",
+    "vehicleType": "Kamyon",
+    "deliveryNo": "DLV20250603",
+    "currentCity": "İzmir",
+    "status": "Teslim Edildi",
+    "progress": 100,
+    "cargoType": "Gıda",
+    "customerName": "Ahmet Yıldız",
+    "deliveryAddress": "Konak, İzmir",
+    "lat": 38.4192,
+    "lng": 27.1287,
+    "steps": [
+      { "label": "Teslimat No Oluşturuldu", "timestamp": "22 Haziran 2025 09:00" },
+      { "label": "Yüklendi", "timestamp": "22 Haziran 2025 11:00" },
+      { "label": "Yola Çıktı", "timestamp": "22 Haziran 2025 12:00" },
+      { "label": "Teslim Edildi", "timestamp": "23 Haziran 2025 17:00" }
+    ]
+  }
+]
